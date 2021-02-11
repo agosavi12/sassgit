@@ -4,7 +4,11 @@ h1 {
   color: red;
 }
 
+.amol {
+  background-color: Green;
+}
+
 .amol p {
-  color: blue;
+  color: red;
 }
 /*# sourceMappingURL=styles.css.map */
